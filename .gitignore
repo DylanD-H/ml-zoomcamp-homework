@@ -1,6 +1,7 @@
 *.csv
 *.bin
 *.onnx*
+machine-learning-zoomcamp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
